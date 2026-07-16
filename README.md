@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0070-climbing-stairs) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0067-add-binary) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0136-single-number) |
 | [0704-binary-search](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0704-binary-search) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
 | ------- |
@@ -71,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,4 +97,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
