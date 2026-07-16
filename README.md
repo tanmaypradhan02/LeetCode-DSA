@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0070-climbing-stairs) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
 | ------- |
@@ -87,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0070-climbing-stairs) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
