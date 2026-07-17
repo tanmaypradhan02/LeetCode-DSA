@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0136-single-number) |
 | [0704-binary-search](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0704-binary-search) |
+| [0977-squares-of-a-sorted-array](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
+| [0977-squares-of-a-sorted-array](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
