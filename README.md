@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0070-climbing-stairs) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0136-single-number) |
 | [0704-binary-search](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
