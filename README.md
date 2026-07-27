@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
