@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3731-find-missing-elements](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0268-missing-number) |
 | [1189-maximum-number-of-balloons](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/1189-maximum-number-of-balloons) |
+| [3731-find-missing-elements](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
