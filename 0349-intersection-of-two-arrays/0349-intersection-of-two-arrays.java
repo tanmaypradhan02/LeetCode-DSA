@@ -1,29 +1,30 @@
 class Solution {
     public int[] intersection(int[] nums1, int[] nums2) {
-        HashSet<Integer> set = new HashSet<>();
+        boolean[] present = new boolean[1001];
 
-        // Store all elements of nums1
+        // Mark elements of nums1
         for (int num : nums1) {
-            set.add(num);
+            present[num] = true;
         }
 
-        // Store common elements
-        HashSet<Integer> result = new HashSet<>();
+        // Store intersection
+        int[] temp = new int[1001];
+        int count = 0;
 
         for (int num : nums2) {
-            if (set.contains(num)) {
-                result.add(num);
+            if (present[num]) {
+                temp[count++] = num;
+                present[num] = false; // avoid duplicates
             }
         }
 
-        // Convert HashSet to int[]
-        int[] ans = new int[result.size()];
-        int i = 0;
+        // Create result array of exact size
+        int[] ans = new int[count];
 
-        for (int num : result) {
-            ans[i++] = num;
+        for (int i = 0; i < count; i++) {
+            ans[i] = temp[i];
         }
 
-        return ans; 
+        return ans;
     }
 }
