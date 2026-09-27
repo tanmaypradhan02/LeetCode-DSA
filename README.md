@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0704-binary-search) |
 ## Hash Table
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1189-maximum-number-of-balloons](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/3731-find-missing-elements) |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -121,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
+| [0349-intersection-of-two-arrays](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
