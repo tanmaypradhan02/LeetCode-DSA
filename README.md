@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0067-add-binary) |
+| [0242-valid-anagram](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0709-to-lower-case](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0709-to-lower-case) |
 | [1189-maximum-number-of-balloons](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/1189-maximum-number-of-balloons) |
 ## Bit Manipulation
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0268-missing-number) |
 | [1189-maximum-number-of-balloons](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0977-squares-of-a-sorted-array) |
