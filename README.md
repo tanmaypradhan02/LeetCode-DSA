@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0242-valid-anagram) |
+| [0678-valid-parenthesis-string](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0709-to-lower-case) |
 | [1189-maximum-number-of-balloons](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/1189-maximum-number-of-balloons) |
 ## Bit Manipulation
@@ -133,10 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0070-climbing-stairs) |
+| [0678-valid-parenthesis-string](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
+| [0678-valid-parenthesis-string](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0678-valid-parenthesis-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -177,4 +180,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0836-rectangle-overlap) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0678-valid-parenthesis-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
