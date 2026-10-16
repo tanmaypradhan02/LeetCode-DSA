@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0268-missing-number) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -216,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
