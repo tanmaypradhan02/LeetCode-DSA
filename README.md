@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0067-add-binary) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0067-add-binary) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0242-valid-anagram) |
