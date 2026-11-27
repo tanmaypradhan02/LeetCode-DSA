@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3731-find-missing-elements](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0070-climbing-stairs) |
 | [0678-valid-parenthesis-string](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0678-valid-parenthesis-string) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Stack
 |  |
 | ------- |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/tanmaypradhan02/LeetCode-DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Bracket Sequences
 |  |
 | ------- |
